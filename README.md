@@ -53,7 +53,7 @@ Cuando se ejecute el programa la salida debe de ser similar a esta:
 
 ## Aclaraciones
 - en la rama main se muestran archivos de c++ que muestran los algoritmos de rasterización vistos en clase en 3D.
-- no se realizan validaciones en las entradas que el usuario dé al programa, por lo tanto, debe estar atento de ingresar correctamente lo que se le solicita desde la interfaz de usuario.
+- se recomienda tener paciencia durante la ejecución del programa, debido a que se hace uso de texturas y objetos pesados en 3D.
 - la simulación hecha en c++, permite al usuario interactuar en un mundo semiabierto, es decir, puede moverse con el teclado y rotar la vista con el mouse.
 
 ## Requerimientos
